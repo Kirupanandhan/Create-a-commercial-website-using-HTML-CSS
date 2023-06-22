@@ -16,8 +16,8 @@ Link the css file with html code using link tag
 Run the code and check the webpage in an web browser.
 
 ## PROGRAM:-
-#### Developed By : Sarankumar J
-#### Register Number : 212221230087
+#### Developed By : Kirupanandhan T
+#### Register Number : 212221230051
 ### HTML:
 ```html
 <!DOCTYPE html>
